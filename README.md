@@ -1,5 +1,12 @@
 # 💫 About Me:
-I never stop learning
+**I never stop learning**
+
+- Analytical mindset, natural curiosity, and an ability to think outside of the box to solve problems.
+- Strong interpersonal and communication skills, ability to express and put forward your ideas and to liaise with both technical and non-technical team members as well as internal and external client teams.
+- Excellent communication skills and ability to confidently communicate with customers.
+- Ability to research and troubleshoot technical problems.
+- Ability to work independently with minimal supervision.
+- Ability to work as part of a fast paced and dynamic team.
 
 
 # 💻 Tech Stack:
